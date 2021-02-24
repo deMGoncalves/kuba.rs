@@ -1,6 +1,6 @@
 [package]
 name = "kuba"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Cleber de Moraes Goncalves <cleber.engineer@hotmail.com>"]
 edition = "2018"
 description = "Simples, peque e imperfeito. Uma visão além da programação"
