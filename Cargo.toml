@@ -1,10 +1,15 @@
 [package]
-authors = ["Cleber de Moraes Goncalves <cleber.engineer@hotmail.com>"]
-description = "Simples, peque e imperfeito. Uma visão além da programação"
-edition = "2018"
-license = "MIT"
 name = "kuba"
 version = "0.1.0"
+authors = ["Cleber de Moraes Goncalves <cleber.engineer@hotmail.com>"]
+edition = "2018"
+description = "Simples, peque e imperfeito. Uma visão além da programação"
+documentation = "https://kuba.engineer"
+readme = "README.md"
+repository = "https://github.com/deMGoncalves/kuba"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["web", "webassembly"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
