@@ -1,15 +1,9 @@
 [package]
 authors = ["Cleber de Moraes Goncalves <cleber.engineer@gmail.com>"]
 edition = "2021"
-description = "Simples, peque e imperfeito. Uma visão além da programação"
-documentation = "https://github.com/deMGoncalves/kuba.rs"
-homepage = "https://kuba.engineer"
-keywords = []
 license = "MIT"
 name = "kuba"
-readme = "README.md"
-repository = "https://github.com/deMGoncalves/kuba.rs"
-version = "0.1.4"
+version = "0.1.0"
 
 [workspace]
 members = [
