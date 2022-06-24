@@ -33,7 +33,7 @@ pub fn add(x: i32, y: i32) -> i32 {
 /// let result = f::divide(3, 0);
 /// ```
 pub fn divide(x: i32, y: i32) -> i32 {
-    if x == 0 {
+    if y == 0 {
         panic!("Divide by zero");
     }
 
