@@ -3,7 +3,7 @@
 /// # Examples
 ///
 /// ```
-/// use kuba::f;
+/// use standard::f;
 ///
 /// let result = f::add(2, 3);
 /// assert_eq!(result, 5);

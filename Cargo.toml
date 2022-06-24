@@ -1,6 +1,6 @@
 [package]
 name = "kuba"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["Cleber de Moraes Goncalves <cleber.engineer@gmail.com>"]
 edition = "2021"
 description = "Simples, peque e imperfeito. Uma visão além da programação"
@@ -11,4 +11,10 @@ repository = "https://github.com/deMGoncalves/kuba.rs"
 license = "MIT"
 keywords = []
 
+[workspace]
+members = [
+  "standard"
+]
+
 [dependencies]
+standard = { path = "standard", version = "0.1.0" }

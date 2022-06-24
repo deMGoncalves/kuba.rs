@@ -3,7 +3,7 @@
 /// # Examples
 ///
 /// ```
-/// use kuba::f;
+/// use standard::f;
 ///
 /// let result = f::divide(3, 2);
 /// assert_eq!(result, 1);
@@ -14,7 +14,7 @@
 /// The function panics if the second argument is zero
 ///
 /// ```rust,should_panic
-/// use kuba::f;
+/// use standard::f;
 ///
 /// let result = f::divide(3, 0);
 /// ```
