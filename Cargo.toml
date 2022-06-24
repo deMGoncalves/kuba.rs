@@ -1,15 +1,15 @@
 [package]
-name = "kuba"
-version = "0.1.4"
 authors = ["Cleber de Moraes Goncalves <cleber.engineer@gmail.com>"]
 edition = "2021"
 description = "Simples, peque e imperfeito. Uma visão além da programação"
 documentation = "https://github.com/deMGoncalves/kuba.rs"
-readme = "README.md"
 homepage = "https://kuba.engineer"
-repository = "https://github.com/deMGoncalves/kuba.rs"
-license = "MIT"
 keywords = []
+license = "MIT"
+name = "kuba"
+readme = "README.md"
+repository = "https://github.com/deMGoncalves/kuba.rs"
+version = "0.1.4"
 
 [workspace]
 members = [
@@ -17,4 +17,4 @@ members = [
 ]
 
 [dependencies]
-standard = { path = "standard", version = "0.1.0" }
+standard = { path = "standard" }
